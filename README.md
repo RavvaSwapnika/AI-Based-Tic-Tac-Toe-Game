@@ -1,6 +1,6 @@
 # 🤖 AI-Based Tic Tac Toe Game
 
-## Deploy Link : https://silver-brigadeiros-44cd3d.netlify.app/
+## Deploy Link : (https://ai-based-tic-tac-toe-game.netlify.app/)
 
 ## 📌 Description
 
